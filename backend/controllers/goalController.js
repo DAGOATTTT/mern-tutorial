@@ -1,5 +1,5 @@
 
-const asycnHandler = require('express-async-handler');
+const asyncHandler = require('express-async-handler');
 
 // @description Get Goals
 //@route GET /api/goals
